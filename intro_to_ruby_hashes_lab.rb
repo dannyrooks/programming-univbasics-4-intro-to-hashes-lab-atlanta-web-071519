@@ -8,8 +8,7 @@ my_hash = {
 }
 end
 
-def pioneer
-  pioneer = { 
+def pioneer = { 
     :name=> "Grace Hopper"
     
   } 
