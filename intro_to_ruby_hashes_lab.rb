@@ -29,7 +29,7 @@ end
 
 
 def read_from_hash(hash, key)
-  puts hash[key] key
+  puts hash[key] 
 
   # return the correct value using the hash and key parameters
 end
